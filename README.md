@@ -193,13 +193,12 @@ No configuration needed! The GitHub REST API works without authentication. Howev
 - Deploy the portfolio using GitHub Pages or Netlify
 - Add unit tests for state management functions
 
-## 👥 Team
+## 👥 Team Members Project 
 
-- **Zahid Shaikh** — Lead Developer
-- Team Member 2 — Frontend Developer
-- Team Member 3 — UI Developer
-- Team Member 4 — JavaScript Developer
-- Team Member 5 — QA & Testing
+- **Zahid Shaikh** — Team-Agency-Portfolio & Quize App 
+- Sauryaman Bisen — Live-News-Feed & Kanban Board
+- Milind Thakare — Expence-Tracker
+- Sankalp Tiwari — Github-Explorer
 
 ## 📄 License
 
